@@ -1,0 +1,22 @@
+{
+  "name": "view_device",
+  "version": "1.0.0",
+  "author": {
+    "name": "kienvipaz99",
+    "email": "kienvipaz99@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "@dead50f7/adbkit": "2.11.5",
+    "cors": "2.8.5",
+    "express": "4.19.2",
+    "node-pty": "0.10.1",
+    "portfinder": "1.0.32",
+    "tslib": "2.6.3",
+    "ws": "8.18.0",
+    "yaml": "2.5.0"
+  }
+}
